@@ -1,0 +1,29 @@
+body {
+    background-color: ffffff;
+  }
+  
+  h1 {
+    background-color: f7cacd;
+    color: f29ca3;
+    text-align: center;
+  }
+
+  h2 {
+    color: 525152;
+    text-align: center;
+  }
+
+  h3 {
+    color: d3d4d9;
+    text-align: center;
+  }
+  
+  p {
+    color: 525152;
+    font-family: verdana;
+    font-size: 20px;
+  }
+
+  .card {
+    color:f7cacd
+  }
